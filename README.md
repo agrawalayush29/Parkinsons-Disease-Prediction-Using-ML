@@ -32,7 +32,7 @@ The models were evaluated on a test set, and their validation accuracies were as
 ## Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/<your-username>/parkinsons-disease-prediction-ml.git
+   git clone https://github.com/agrawalayush29/Parkinsons-Disease-Prediction-Using-ML.git
    ```
 2. Install dependencies:
    ```sh
